@@ -28,5 +28,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-![Image](D:\VSCodeProject\kodluyoruzilkrepo\img\kodluyoruzilkrepoimage.jpg)
